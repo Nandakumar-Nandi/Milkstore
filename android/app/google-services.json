@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019858300994",
+    "firebase_url": "https://flutter1-d505b-default-rtdb.firebaseio.com",
+    "project_id": "flutter1-d505b",
+    "storage_bucket": "flutter1-d505b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019858300994:android:8e58ce581545c55f36fddb",
+        "android_client_info": {
+          "package_name": "com.example.arokya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019858300994-5paaedq9vrmqd83a6k71cl979hobviua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxfbs_rHDNJJN5YGsBH0WmSdKa7FMDmoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019858300994-5paaedq9vrmqd83a6k71cl979hobviua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
